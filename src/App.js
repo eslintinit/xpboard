@@ -353,6 +353,7 @@ const Icon = ({
     onClick={onClick}
     data-tip
     data-for={dataFor}
+    stlye={{ minWidth: '1.25rem' }}
   >
     {children}
   </div>
