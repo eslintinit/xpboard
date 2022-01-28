@@ -80,6 +80,42 @@ export default function FAQ() {
                   skill to know the value of your actions
                 </p>
               </div>
+              <div className="mt-4">
+                <h3 className="mb-2 font-medium">How can I help?</h3>
+                <p className="text-sm text-gray-500">
+                  The project is in{' '}
+                  <a
+                    href="https://github.com/maximignatev/xpboard"
+                    target="_blank"
+                    className="text-violet-600 cursor-pointer hover:text-violet-800"
+                  >
+                    opensource
+                  </a>
+                  . If you know how to code you can pick any issue and implement
+                  it.
+                  <br />
+                  <br />
+                  If you'd like to support the project maintainer you can donate
+                  me{' '}
+                  <a
+                    href="https://paypal.me/ignatif"
+                    target="_blank"
+                    className="text-violet-600 cursor-pointer hover:text-violet-800"
+                  >
+                    here
+                  </a>
+                  .
+                  <br />
+                  <br />
+                  You can contact me at{' '}
+                  <a
+                    href="mailto:ignatif@gmail.com"
+                    className="text-violet-600 cursor-pointer hover:text-violet-800"
+                  >
+                    ignatif@gmail.com
+                  </a>
+                </p>
+              </div>
 
               <div className="mt-6">
                 <button
